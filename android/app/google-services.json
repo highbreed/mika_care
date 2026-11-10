@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135547164721",
+    "project_id": "mika-care",
+    "storage_bucket": "mika-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135547164721:android:2b6750d7f8ef7d4e065d10",
+        "android_client_info": {
+          "package_name": "com.mikaappliances.mika_care"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPs1phi6VZFbPa65khiOfFnoORP-ygVcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
